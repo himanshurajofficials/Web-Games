@@ -1,0 +1,79 @@
+body
+{
+  background-image:url("images/447788.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1
+{
+  text-align: center;
+  color : white;
+  font-size: 70px;
+  font-family: sans-serif;
+}
+.button11 p{
+  padding-top: 200px;
+}
+.button12 p{
+  padding-top: 125px;
+}
+.container
+{
+  margin-left: 400px;
+  margin-top: 90px;
+
+}
+.button11
+{
+  height: 300px;
+  width: 72px;
+  font-size: 40px;
+  border-radius: 1%;
+  cursor: pointer;
+}
+.button11:hover {
+  background-color: lightGrey;
+}
+.button12:hover {
+  background-color: #242124;
+}
+.button12
+{
+  background-color: black;
+  border-radius: 4%;
+  height: 200px;
+  width: 48px;
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+  position: absolute;
+  left:5px;
+}
+.btnd1
+{
+  margin-left: 453px;
+}
+.btnd2
+{
+  margin-left: 530px;
+}
+.btnd3
+{
+  margin-left: 681px;
+}
+.btnd4
+{
+  margin-left: 755px;
+}
+.btnd5
+{
+  margin-left: 830px;
+}
+.btnd6
+{
+  margin-left: 985px;
+}
+.btnd7
+{
+  margin-left: 1060px;
+}

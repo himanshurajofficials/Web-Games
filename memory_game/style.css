@@ -1,0 +1,47 @@
+
+body{
+
+  background-image:url("ccc.jpg");
+  background-size: cover;
+}
+h1
+{
+  text-align: center;
+  color : white;
+  font-size: 70px;
+  font-family: sans-serif;
+}
+button
+{
+  width: 200px;
+  height: 200px;
+  border-radius: 8%;
+  font-size: 25px;
+}
+.qwe{
+  width:90px;
+  height: 60px;
+  font-size: 20px;
+  margin-left: 30px;
+  background-color: seagreen;
+}
+.wee{
+  margin-left: 650px;
+  background-color: lightblue;
+}
+.row1c1{
+  margin-left: 530px;
+  background-color: green;
+}
+.row1c2{
+  margin-left: 40px;
+  background-color: yellow;
+}
+.row2c1{
+  margin-left: 530px;
+  background-color: red;
+}
+.row2c2{
+  margin-left: 40px;
+  background-color: blue;
+}
